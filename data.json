@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "first_name": "Maurise",
+        "last_name": "Shieldon",
+        "email": "a.shieldon@net",
+        "bio": "Fugiat veniam minus",
+        "skills": [
+            "React",
+            "JavaScript"
+        ],
+        "resume_file": "http://google.com",
+        "github_url": "asd"
+    },
+    {
+        "id": 2,
+        "first_name": "Anderson",
+        "last_name": "Douglas",
+        "email": "a.duglas@net",
+        "bio": "Fugiat veniam minus",
+        "skills": [
+            "React",
+            "JavaScript"
+        ],
+        "resume_file": "http://google.com",
+        "github_url": "asd"
+    },
+    {
+        "id": 3,
+        "first_name": "Jon",
+        "last_name": "Doe",
+        "email": "jon.doe@net",
+        "bio": "Fugiat veniam minus",
+        "skills": [
+            "React",
+            "JavaScript"
+        ],
+        "resume_file": "http://google.com",
+        "github_url": "asd"
+    }
+]
